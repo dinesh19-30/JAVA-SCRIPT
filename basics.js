@@ -11,3 +11,4 @@ var price1=100
 var total1=count*price1
 console.log(fruit)
 console.log(total1)
+
