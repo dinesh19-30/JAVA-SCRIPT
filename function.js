@@ -15,3 +15,16 @@ function add(){
 var a=10
 var b=20
 add()
+
+//exercise 2
+
+factor="ajith kumar"
+fplayer="dhoni"
+fmovie="GBU"
+
+function favourite(){
+    console.log("Favourite actor",factor)
+    console.log("Favourite player",fplayer)
+    console.log("Favourite movie",fmovie)
+}
+favourite()
