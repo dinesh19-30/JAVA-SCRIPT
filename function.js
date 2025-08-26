@@ -28,3 +28,10 @@ function favourite(){
     console.log("Favourite movie",fmovie)
 }
 favourite()
+
+//parameter example
+
+function area(l,b){
+    console.log(l*b)
+}
+area(10,20)
