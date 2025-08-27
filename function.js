@@ -32,6 +32,6 @@ favourite()
 //parameter example
 
 function area(l,b){
-    console.log(l*b)
+    console.log("Area is",l+b)
 }
 area(10,20)
